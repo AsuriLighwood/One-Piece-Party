@@ -2,6 +2,7 @@
   "name": "grand-line-bites",
   "private": true,
   "version": "1.0.0",
+  "homepage": ".",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
